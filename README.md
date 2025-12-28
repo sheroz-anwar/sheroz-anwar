@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋📊
+# Hi there, I'm Sheroz Anwar! 👋
 
 Statistics Student | Aspiring Data Analyst | R & Python Enthusiast
 
@@ -39,10 +39,5 @@ Since I am currently building my portfolio, here are a few areas I am working on
 - Exploratory Data Analysis (EDA): Visualizing distributions using ggplot2 (R) and matplotlib (Python).
 - Probability Simulations: Using Monte Carlo simulations to demonstrate the Law of Large Numbers.
 - Academic Assignments: A collection of solutions and code for my Regression Analysis and Probability coursework.
-
-## 📫 Connect with Me
-
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
 
 > "In God we trust. All others must bring data." — W. Edwards Deming
