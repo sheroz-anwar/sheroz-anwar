@@ -22,15 +22,6 @@ As a 3rd-semester student, I am currently diving deep into:
 - Data Manipulation & Visualization: dplyr, ggplot2 (R); pandas, matplotlib, seaborn (Python)
 - Documentation & Reporting: RMarkdown, Jupyter Notebooks
 
-## 📈 GitHub Stats
-
-<!-- Replace 'YourUsername' with your actual GitHub username in the links below -->
-<p align="left">
-  <a href="https://github.com/YourUsername">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical"/>
-  </a>
-</p>
 
 ## 📂 Key Projects (Work in Progress)
 
