@@ -2,7 +2,8 @@
 
 Statistics Student | Aspiring Data Analyst | R & Python Enthusiast
 
-I am currently a 3rd Semester Undergraduate Student in the Department of Statistics at [Your University Name].
+I am currently a 3rd Semester Undergraduate Student in the Department of Statistics at Punjab University
+.
 
 I am passionate about uncovering stories hidden within data. My journey involves mastering statistical theory while applying it through modern programming tools to solve real-world problems.
 
